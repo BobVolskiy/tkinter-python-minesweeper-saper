@@ -1,4 +1,4 @@
-# Python Tkinter Calculator (without eval)
+# Python Tkinter Minesweeper
 (University assignment)
 
 [![N|Solid](images/logo.png)](https://twitter.com/bob_volskiy)
